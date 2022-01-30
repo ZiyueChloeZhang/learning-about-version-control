@@ -12,4 +12,4 @@ Dear TA,
 Hi! I wasn't sure canvas uploaded the screenshot successfully, so I just insert a copy here.
 Sorry for the inconvenience.
 
-<img src="/merge-conflict.png">
+![screenshot](merge-conflicts.png)
